@@ -6,13 +6,13 @@
 | ------------- | ------------- |
 
 ### Hello, I'm ZhangBlossom 👋
-个人博客: https://blog.csdn.net/Zhangsama1
+I work for ByteDance now.
 
-目前在字节跳动工作，由于工作原因，因此更新代码不会很频繁。
+My Blog: https://blog.csdn.net/Zhangsama1
 
-如果可以的话，可以给我一个⭐吗？
+Can you give me a Star?
 
-交流(注明来意)：
+Talk(Note the intention)：
 
 WX: qczjhczs0114
 
