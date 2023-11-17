@@ -6,7 +6,6 @@
 | ------------- | ------------- |
 
 ### Hello, I'm ZhangBlossom 👋
-I work for ByteDance now.
 
 My Blog: https://blog.csdn.net/Zhangsama1
 
