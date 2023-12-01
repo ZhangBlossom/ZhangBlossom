@@ -7,9 +7,9 @@
 
 ### Hello, I'm ZhangBlossom 👋
 
-My Blog: https://blog.csdn.net/Zhangsama1
+CSDN: https://blog.csdn.net/Zhangsama1
 
-Can you give me a Star?
+Juejin: https://juejin.cn/user/959247226505693/posts
 
 Talk(Note the intention)：
 
