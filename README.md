@@ -13,7 +13,5 @@ Juejin: https://juejin.cn/user/959247226505693/posts
 
 Talk(Note the intention)：
 
-WX: tobeacon4110
-
-QQ: 2499067858
+WX: zhangblossom0114
 
