@@ -11,6 +11,8 @@ CSDN: https://blog.csdn.net/Zhangsama1
 
 Juejin: https://juejin.cn/user/959247226505693/posts
 
+内推：https://neitui.italent.cn/hellobike/sharejobs?shareId=99e4cab8-ddf4-41a5-ae02-68846263069e&language=zh_CN&rt=2
+
 Talk(Note the intention)：
 
 WX: zhangblossom0114
