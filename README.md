@@ -20,9 +20,29 @@ WX: zhangblossom0114
 ## 💻 技术栈 | Tech Stack
 Java、MySQL、Redis、Netty、SpringBoot、SpringCloud、Nacos、Apollo、RocketMQ、XxlJob、ES
 
-## 📊 GitHub 统计 | Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZhangBlossom&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangBlossom&layout=compact&langs_count=8&theme=radical"/>
-</div>
+## ## 🚀 重点项目 | Featured Projects
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ZhangBlossom/BlossomGateway">
+        <br />一个基于Netty搭建的，支持动态配置变更的过滤器，能够实现请求转发的网关系统。
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZhangBlossom/BlossomConfig">
+        <br />一个基于SpringBoot的无需整合SpringCloud等配置的动态配置中心。
+      </a>
+    </td>
+       <td align="center">
+      <a href="https://github.com/ZhangBlossom/BlossomRPC">
+        <br />一个基于Netty和Java反射实现的RPC组件。
+      </a>
+    </td>
+        </td>
+       <td align="center">
+      <a href="https://github.com/ZhangBlossom/BlossomIM">
+        <br />一个基于Netty实现的IM组件。
+      </a>
+    </td>
+  </tr>
+</table>
