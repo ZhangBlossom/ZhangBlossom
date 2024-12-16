@@ -20,7 +20,7 @@ WX: zhangblossom0114
 ## 💻 技术栈 | Tech Stack
 Java、MySQL、Redis、Netty、SpringBoot、SpringCloud、Nacos、Apollo、RocketMQ、XxlJob、ES
 
-## ## 🚀 重点项目 | Featured Projects
+## 🚀 重点项目 | Featured Projects
 <table>
   <tr>
     <td align="center">
